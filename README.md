@@ -1,8 +1,8 @@
-# 🎓 InternMatch — NLP-Based Internship Recommendation System
+# InternMatch — NLP-Based Internship Recommendation System
 
 An intelligent web platform where students upload their resume and get AI-powered internship recommendations using **BERT embeddings** and **NLP**.
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌──────────────┐     ┌──────────────────┐     ┌────────────────────┐
@@ -13,7 +13,7 @@ An intelligent web platform where students upload their resume and get AI-powere
 └──────────────┘     └──────────────────┘     └────────────────────┘
 ```
 
-## ✨ Features
+## Features
 
 - **Smart Resume Parsing** — Upload PDF resumes, extract skills using NLP
 - **BERT-Powered Matching** — Semantic similarity using sentence-transformers
@@ -24,13 +24,13 @@ An intelligent web platform where students upload their resume and get AI-powere
 - **JWT Authentication** — Secure signup/login system
 - **Premium UI** — Glassmorphism, gradients, micro-animations
 
-## 📋 Prerequisites
+## Prerequisites
 
 - **Node.js** v18+
 - **Python** 3.9+
 - **MongoDB** running locally on port 27017
 
-## 🚀 Setup & Run
+## Setup & Run
 
 ### 1. Backend (Node.js)
 
@@ -106,7 +106,7 @@ internship-recommendation-system/
 └── README.md
 ```
 
-## 🔌 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -120,7 +120,7 @@ internship-recommendation-system/
 | POST | `/api/applications` | Apply to an internship |
 | GET | `/api/applications/user/:userId` | Get user's applications |
 
-## 🧠 Recommendation Algorithm
+## Recommendation Algorithm
 
 1. User skills are encoded using **BERT** (`all-MiniLM-L6-v2`)
 2. Each internship's required skills are similarly encoded
@@ -128,7 +128,7 @@ internship-recommendation-system/
 4. Final score: `0.6 × skill_similarity + 0.2 × department_match + 0.2 × location_match`
 5. Top 10 internships are returned with match percentage and skill gap analysis
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
