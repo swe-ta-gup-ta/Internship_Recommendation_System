@@ -1,0 +1,542 @@
+[
+  {
+    "title": "Machine Learning Intern",
+    "company": "TechLabs",
+    "description": "Work on machine learning models for predictive analytics. Build and train models using Python, scikit-learn, and TensorFlow. Collaborate with the data science team on real-world problems.",
+    "requiredSkills": ["python", "machine learning", "pandas", "scikit-learn", "tensorflow"],
+    "department": "CSE",
+    "location": "Bangalore",
+    "duration": "3 months",
+    "stipend": "₹25,000/month"
+  },
+  {
+    "title": "Data Analyst Intern",
+    "company": "DataMind Solutions",
+    "description": "Analyze large datasets to derive business insights. Create dashboards and reports using Python and SQL. Work with the analytics team on customer segmentation projects.",
+    "requiredSkills": ["python", "sql", "pandas", "data analysis", "excel", "tableau"],
+    "department": "CSE",
+    "location": "Mumbai",
+    "duration": "3 months",
+    "stipend": "₹20,000/month"
+  },
+  {
+    "title": "Backend Developer Intern",
+    "company": "CloudStack Inc.",
+    "description": "Develop RESTful APIs and microservices using Node.js and Express. Work with MongoDB and Redis for data storage. Participate in code reviews and agile sprints.",
+    "requiredSkills": ["node.js", "express", "mongodb", "javascript", "rest api"],
+    "department": "CSE",
+    "location": "Hyderabad",
+    "duration": "6 months",
+    "stipend": "₹30,000/month"
+  },
+  {
+    "title": "Frontend Developer Intern",
+    "company": "PixelCraft Studios",
+    "description": "Build responsive web interfaces using React.js and Tailwind CSS. Collaborate with designers to implement pixel-perfect UI components. Optimize web performance.",
+    "requiredSkills": ["react", "javascript", "html", "css", "tailwind css"],
+    "department": "CSE",
+    "location": "Pune",
+    "duration": "3 months",
+    "stipend": "₹20,000/month"
+  },
+  {
+    "title": "Full Stack Developer Intern",
+    "company": "NexGen Technologies",
+    "description": "Develop end-to-end web applications using MERN stack. Handle both frontend UI development and backend API creation. Deploy applications on cloud platforms.",
+    "requiredSkills": ["react", "node.js", "express", "mongodb", "javascript"],
+    "department": "CSE",
+    "location": "Bangalore",
+    "duration": "6 months",
+    "stipend": "₹35,000/month"
+  },
+  {
+    "title": "AI Research Intern",
+    "company": "DeepVision AI",
+    "description": "Conduct research on deep learning models for computer vision. Implement neural networks using PyTorch. Publish findings in research papers.",
+    "requiredSkills": ["python", "deep learning", "pytorch", "computer vision", "tensorflow"],
+    "department": "CSE",
+    "location": "Bangalore",
+    "duration": "6 months",
+    "stipend": "₹40,000/month"
+  },
+  {
+    "title": "Natural Language Processing Intern",
+    "company": "LinguaTech",
+    "description": "Work on NLP projects including text classification, sentiment analysis, and named entity recognition. Use transformers and BERT models for language understanding.",
+    "requiredSkills": ["python", "nlp", "machine learning", "spacy", "transformers"],
+    "department": "CSE",
+    "location": "Chennai",
+    "duration": "4 months",
+    "stipend": "₹28,000/month"
+  },
+  {
+    "title": "Cloud Engineering Intern",
+    "company": "SkyNet Cloud Services",
+    "description": "Assist in managing cloud infrastructure on AWS. Set up CI/CD pipelines, configure containers with Docker, and monitor system performance using CloudWatch.",
+    "requiredSkills": ["aws", "docker", "linux", "python", "ci/cd"],
+    "department": "CSE",
+    "location": "Hyderabad",
+    "duration": "3 months",
+    "stipend": "₹22,000/month"
+  },
+  {
+    "title": "Cybersecurity Intern",
+    "company": "SecureNet Labs",
+    "description": "Perform vulnerability assessments and penetration testing. Analyze security logs and implement security measures. Work with SIEM tools and firewalls.",
+    "requiredSkills": ["cybersecurity", "networking", "linux", "python", "penetration testing"],
+    "department": "CSE",
+    "location": "Delhi",
+    "duration": "3 months",
+    "stipend": "₹18,000/month"
+  },
+  {
+    "title": "DevOps Intern",
+    "company": "AutoDeploy Systems",
+    "description": "Automate deployment pipelines using Jenkins and Docker. Manage Kubernetes clusters and implement infrastructure as code using Terraform.",
+    "requiredSkills": ["docker", "kubernetes", "jenkins", "linux", "terraform"],
+    "department": "CSE",
+    "location": "Pune",
+    "duration": "4 months",
+    "stipend": "₹25,000/month"
+  },
+  {
+    "title": "Mobile App Developer Intern",
+    "company": "AppCraft Solutions",
+    "description": "Develop cross-platform mobile applications using React Native. Implement UI components, integrate APIs, and handle app state management.",
+    "requiredSkills": ["react native", "javascript", "react", "mobile development", "rest api"],
+    "department": "CSE",
+    "location": "Mumbai",
+    "duration": "3 months",
+    "stipend": "₹20,000/month"
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "Quantify Analytics",
+    "description": "Build predictive models using machine learning. Perform exploratory data analysis and feature engineering. Create visualizations using matplotlib and seaborn.",
+    "requiredSkills": ["python", "machine learning", "pandas", "numpy", "data visualization"],
+    "department": "CSE",
+    "location": "Bangalore",
+    "duration": "4 months",
+    "stipend": "₹30,000/month"
+  },
+  {
+    "title": "Blockchain Developer Intern",
+    "company": "ChainWorks",
+    "description": "Develop smart contracts using Solidity on Ethereum blockchain. Build decentralized applications and implement token standards.",
+    "requiredSkills": ["blockchain", "solidity", "ethereum", "javascript", "web3"],
+    "department": "CSE",
+    "location": "Bangalore",
+    "duration": "3 months",
+    "stipend": "₹25,000/month"
+  },
+  {
+    "title": "QA Automation Intern",
+    "company": "TestPro Technologies",
+    "description": "Design and implement automated test cases using Selenium and Python. Create test frameworks and generate test reports. Ensure software quality through rigorous testing.",
+    "requiredSkills": ["python", "selenium", "testing", "automation", "java"],
+    "department": "CSE",
+    "location": "Chennai",
+    "duration": "3 months",
+    "stipend": "₹15,000/month"
+  },
+  {
+    "title": "Game Developer Intern",
+    "company": "PlayForge Studios",
+    "description": "Develop 2D and 3D games using Unity engine. Implement game mechanics, physics, and AI behaviors. Create engaging user experiences through interactive gameplay.",
+    "requiredSkills": ["unity", "c#", "game development", "3d modeling", "physics"],
+    "department": "CSE",
+    "location": "Pune",
+    "duration": "4 months",
+    "stipend": "₹20,000/month"
+  },
+  {
+    "title": "Embedded Systems Intern",
+    "company": "MicroChip Dynamics",
+    "description": "Develop firmware for microcontrollers using C/C++. Work with Arduino and Raspberry Pi. Design and test embedded systems for IoT applications.",
+    "requiredSkills": ["c", "c++", "embedded systems", "arduino", "iot"],
+    "department": "ECE",
+    "location": "Bangalore",
+    "duration": "3 months",
+    "stipend": "₹18,000/month"
+  },
+  {
+    "title": "VLSI Design Intern",
+    "company": "SiliconWave Semiconductors",
+    "description": "Design and verify digital circuits using Verilog and VHDL. Perform synthesis and timing analysis. Work on ASIC and FPGA design projects.",
+    "requiredSkills": ["verilog", "vhdl", "vlsi", "fpga", "digital design"],
+    "department": "ECE",
+    "location": "Hyderabad",
+    "duration": "6 months",
+    "stipend": "₹22,000/month"
+  },
+  {
+    "title": "IoT Developer Intern",
+    "company": "SmartConnect Labs",
+    "description": "Build IoT solutions using sensors and microcontrollers. Develop cloud connectivity for IoT devices. Create dashboards for real-time data monitoring.",
+    "requiredSkills": ["iot", "python", "arduino", "raspberry pi", "mqtt"],
+    "department": "ECE",
+    "location": "Chennai",
+    "duration": "3 months",
+    "stipend": "₹15,000/month"
+  },
+  {
+    "title": "Signal Processing Intern",
+    "company": "WaveForm Technologies",
+    "description": "Work on digital signal processing algorithms using MATLAB and Python. Analyze audio and image signals. Implement filters and transforms for real-time applications.",
+    "requiredSkills": ["matlab", "signal processing", "python", "dsp", "image processing"],
+    "department": "ECE",
+    "location": "Delhi",
+    "duration": "3 months",
+    "stipend": "₹20,000/month"
+  },
+  {
+    "title": "Communication Systems Intern",
+    "company": "TelecomEdge",
+    "description": "Work on 5G network simulations and wireless communication protocols. Analyze channel models and optimize signal transmission using MATLAB.",
+    "requiredSkills": ["communication systems", "matlab", "wireless networks", "5g", "signal processing"],
+    "department": "ECE",
+    "location": "Hyderabad",
+    "duration": "4 months",
+    "stipend": "₹22,000/month"
+  },
+  {
+    "title": "Robotics Intern",
+    "company": "RoboTech Industries",
+    "description": "Design and program robotic systems using ROS. Implement path planning algorithms and sensor integration. Work on autonomous navigation projects.",
+    "requiredSkills": ["robotics", "ros", "python", "c++", "sensor integration"],
+    "department": "ECE",
+    "location": "Bangalore",
+    "duration": "4 months",
+    "stipend": "₹25,000/month"
+  },
+  {
+    "title": "Power Electronics Intern",
+    "company": "VoltEdge Energy",
+    "description": "Design power converter circuits and simulate using MATLAB/Simulink. Work on renewable energy systems and motor drives. Perform PCB design and testing.",
+    "requiredSkills": ["power electronics", "matlab", "simulink", "pcb design", "circuit design"],
+    "department": "EE",
+    "location": "Pune",
+    "duration": "3 months",
+    "stipend": "₹18,000/month"
+  },
+  {
+    "title": "Control Systems Intern",
+    "company": "AutoControl Systems",
+    "description": "Design and implement control algorithms for industrial automation. Use MATLAB and PLC programming. Simulate and optimize control loops.",
+    "requiredSkills": ["control systems", "matlab", "plc", "automation", "simulink"],
+    "department": "EE",
+    "location": "Chennai",
+    "duration": "3 months",
+    "stipend": "₹17,000/month"
+  },
+  {
+    "title": "Electrical Design Intern",
+    "company": "GridTech Solutions",
+    "description": "Design electrical systems and create schematics using AutoCAD Electrical. Perform load calculations and power distribution analysis for commercial buildings.",
+    "requiredSkills": ["autocad", "electrical design", "power systems", "circuit analysis", "matlab"],
+    "department": "EE",
+    "location": "Mumbai",
+    "duration": "3 months",
+    "stipend": "₹15,000/month"
+  },
+  {
+    "title": "Renewable Energy Intern",
+    "company": "GreenWatt Energy",
+    "description": "Work on solar and wind energy projects. Perform system sizing and efficiency analysis. Use HOMER and PVSyst for energy modeling and simulation.",
+    "requiredSkills": ["renewable energy", "solar energy", "matlab", "pvsyst", "energy analysis"],
+    "department": "EE",
+    "location": "Delhi",
+    "duration": "4 months",
+    "stipend": "₹20,000/month"
+  },
+  {
+    "title": "Mechanical Design Intern",
+    "company": "DesignForge Engineering",
+    "description": "Create 3D CAD models using SolidWorks and AutoCAD. Perform structural analysis using ANSYS. Support product design and development projects.",
+    "requiredSkills": ["solidworks", "autocad", "ansys", "mechanical design", "3d modeling"],
+    "department": "ME",
+    "location": "Pune",
+    "duration": "3 months",
+    "stipend": "₹15,000/month"
+  },
+  {
+    "title": "Manufacturing Engineering Intern",
+    "company": "PrecisionMake Industries",
+    "description": "Optimize manufacturing processes and reduce waste. Work with CNC machines and study lean manufacturing principles. Implement quality control measures.",
+    "requiredSkills": ["manufacturing", "lean manufacturing", "quality control", "cnc", "six sigma"],
+    "department": "ME",
+    "location": "Chennai",
+    "duration": "3 months",
+    "stipend": "₹12,000/month"
+  },
+  {
+    "title": "Thermal Engineering Intern",
+    "company": "HeatFlow Solutions",
+    "description": "Perform thermal analysis and simulation using ANSYS Fluent. Design heat exchangers and HVAC systems. Conduct CFD analysis for fluid flow problems.",
+    "requiredSkills": ["thermal engineering", "ansys fluent", "cfd", "heat transfer", "matlab"],
+    "department": "ME",
+    "location": "Bangalore",
+    "duration": "4 months",
+    "stipend": "₹18,000/month"
+  },
+  {
+    "title": "Automotive Engineering Intern",
+    "company": "AutoDrive Technologies",
+    "description": "Work on vehicle dynamics and powertrain systems. Use CATIA and MATLAB for design and simulation. Support prototype testing and validation.",
+    "requiredSkills": ["automotive engineering", "catia", "matlab", "vehicle dynamics", "solidworks"],
+    "department": "ME",
+    "location": "Delhi",
+    "duration": "6 months",
+    "stipend": "₹25,000/month"
+  },
+  {
+    "title": "3D Printing Intern",
+    "company": "AddiTech Manufacturing",
+    "description": "Work with FDM and SLA 3D printers. Design parts for additive manufacturing using SolidWorks. Optimize print parameters and material selection.",
+    "requiredSkills": ["3d printing", "solidworks", "cad", "material science", "prototyping"],
+    "department": "ME",
+    "location": "Hyderabad",
+    "duration": "3 months",
+    "stipend": "₹14,000/month"
+  },
+  {
+    "title": "Bioinformatics Intern",
+    "company": "GenomeTrack Labs",
+    "description": "Analyze genomic data using Python and R. Work on sequence alignment and gene expression analysis. Use bioinformatics tools like BLAST and Bioconductor.",
+    "requiredSkills": ["python", "r", "bioinformatics", "genomics", "data analysis"],
+    "department": "BioTech",
+    "location": "Bangalore",
+    "duration": "4 months",
+    "stipend": "₹20,000/month"
+  },
+  {
+    "title": "Pharmaceutical Research Intern",
+    "company": "BioPharm Solutions",
+    "description": "Support drug discovery research and clinical trials. Perform molecular docking and QSAR studies. Work with lab equipment and research protocols.",
+    "requiredSkills": ["pharmaceutical research", "molecular biology", "drug discovery", "chemistry", "data analysis"],
+    "department": "BioTech",
+    "location": "Hyderabad",
+    "duration": "6 months",
+    "stipend": "₹15,000/month"
+  },
+  {
+    "title": "Bioprocess Engineering Intern",
+    "company": "FermentPro Biotech",
+    "description": "Work on fermentation and bioprocess optimization. Scale up laboratory processes to pilot plant. Monitor bioreactor performance and product quality.",
+    "requiredSkills": ["bioprocess engineering", "fermentation", "biotechnology", "quality control", "matlab"],
+    "department": "BioTech",
+    "location": "Pune",
+    "duration": "3 months",
+    "stipend": "₹12,000/month"
+  },
+  {
+    "title": "Environmental Biotech Intern",
+    "company": "EcoGenesis Labs",
+    "description": "Research bioremediation techniques for pollution control. Work on wastewater treatment projects. Analyze environmental samples using biological methods.",
+    "requiredSkills": ["environmental science", "biotechnology", "water treatment", "microbiology", "data analysis"],
+    "department": "BioTech",
+    "location": "Chennai",
+    "duration": "3 months",
+    "stipend": "₹14,000/month"
+  },
+  {
+    "title": "Business Analytics Intern",
+    "company": "InsightEdge Consulting",
+    "description": "Analyze business data to drive strategic decisions. Create dashboards using Power BI and Tableau. Perform market research and competitive analysis.",
+    "requiredSkills": ["business analytics", "power bi", "tableau", "excel", "sql"],
+    "department": "MBA",
+    "location": "Mumbai",
+    "duration": "3 months",
+    "stipend": "₹20,000/month"
+  },
+  {
+    "title": "Marketing Intern",
+    "company": "BrandVault Agency",
+    "description": "Develop digital marketing strategies and campaigns. Manage social media accounts and create content. Analyze campaign performance using Google Analytics.",
+    "requiredSkills": ["digital marketing", "social media", "seo", "content writing", "google analytics"],
+    "department": "MBA",
+    "location": "Delhi",
+    "duration": "3 months",
+    "stipend": "₹15,000/month"
+  },
+  {
+    "title": "Product Management Intern",
+    "company": "LaunchPad Products",
+    "description": "Assist in product roadmap planning and feature prioritization. Conduct user research and competitive analysis. Work closely with engineering and design teams.",
+    "requiredSkills": ["product management", "market research", "analytics", "communication", "project management"],
+    "department": "MBA",
+    "location": "Bangalore",
+    "duration": "4 months",
+    "stipend": "₹25,000/month"
+  },
+  {
+    "title": "Finance Intern",
+    "company": "CapitalGrow Advisors",
+    "description": "Assist in financial modeling and valuation. Prepare investment reports and market analysis. Work on portfolio management and risk assessment.",
+    "requiredSkills": ["financial modeling", "excel", "accounting", "valuation", "financial analysis"],
+    "department": "MBA",
+    "location": "Mumbai",
+    "duration": "3 months",
+    "stipend": "₹22,000/month"
+  },
+  {
+    "title": "HR Intern",
+    "company": "TalentBridge Solutions",
+    "description": "Support recruitment and onboarding processes. Conduct employee engagement surveys. Assist in training program development and HR analytics.",
+    "requiredSkills": ["human resources", "recruitment", "communication", "excel", "hr analytics"],
+    "department": "MBA",
+    "location": "Pune",
+    "duration": "3 months",
+    "stipend": "₹12,000/month"
+  },
+  {
+    "title": "Operations Intern",
+    "company": "SupplyChain Pro",
+    "description": "Optimize supply chain operations and logistics. Analyze inventory management systems. Implement process improvements using lean methodology.",
+    "requiredSkills": ["supply chain", "operations management", "excel", "lean", "data analysis"],
+    "department": "MBA",
+    "location": "Chennai",
+    "duration": "3 months",
+    "stipend": "₹18,000/month"
+  },
+  {
+    "title": "Computer Vision Intern",
+    "company": "VisionAI Labs",
+    "description": "Develop image recognition and object detection models using deep learning. Work with OpenCV and TensorFlow for visual AI applications. Process and augment image datasets.",
+    "requiredSkills": ["python", "computer vision", "opencv", "deep learning", "tensorflow"],
+    "department": "CSE",
+    "location": "Bangalore",
+    "duration": "4 months",
+    "stipend": "₹30,000/month"
+  },
+  {
+    "title": "Database Administrator Intern",
+    "company": "DataVault Solutions",
+    "description": "Manage and optimize database systems including MySQL and PostgreSQL. Implement backup strategies and performance tuning. Write complex SQL queries and stored procedures.",
+    "requiredSkills": ["sql", "mysql", "postgresql", "database management", "linux"],
+    "department": "CSE",
+    "location": "Hyderabad",
+    "duration": "3 months",
+    "stipend": "₹18,000/month"
+  },
+  {
+    "title": "UI/UX Design Intern",
+    "company": "DesignPulse Creative",
+    "description": "Create user-centered designs using Figma and Adobe XD. Conduct usability testing and user research. Design wireframes, prototypes, and high-fidelity mockups.",
+    "requiredSkills": ["figma", "adobe xd", "ui design", "ux research", "prototyping"],
+    "department": "CSE",
+    "location": "Mumbai",
+    "duration": "3 months",
+    "stipend": "₹15,000/month"
+  },
+  {
+    "title": "Big Data Intern",
+    "company": "DataStream Analytics",
+    "description": "Process large-scale data using Apache Spark and Hadoop. Implement data pipelines and ETL workflows. Analyze distributed datasets for business insights.",
+    "requiredSkills": ["big data", "apache spark", "hadoop", "python", "sql"],
+    "department": "CSE",
+    "location": "Delhi",
+    "duration": "4 months",
+    "stipend": "₹25,000/month"
+  },
+  {
+    "title": "Network Engineering Intern",
+    "company": "NetSecure Technologies",
+    "description": "Configure and manage enterprise network equipment. Work with routers, switches, and firewalls. Implement network monitoring and troubleshooting procedures.",
+    "requiredSkills": ["networking", "cisco", "tcp/ip", "linux", "network security"],
+    "department": "CSE",
+    "location": "Chennai",
+    "duration": "3 months",
+    "stipend": "₹16,000/month"
+  },
+  {
+    "title": "API Developer Intern",
+    "company": "IntegrationHub",
+    "description": "Design and build RESTful APIs using Python Flask and Django. Implement API authentication and rate limiting. Write comprehensive API documentation using Swagger.",
+    "requiredSkills": ["python", "flask", "django", "rest api", "sql"],
+    "department": "CSE",
+    "location": "Pune",
+    "duration": "3 months",
+    "stipend": "₹22,000/month"
+  },
+  {
+    "title": "System Administration Intern",
+    "company": "InfraCore Solutions",
+    "description": "Manage Linux and Windows servers. Automate tasks using shell scripting and Ansible. Monitor system performance and handle incident response.",
+    "requiredSkills": ["linux", "windows server", "shell scripting", "ansible", "monitoring"],
+    "department": "CSE",
+    "location": "Hyderabad",
+    "duration": "3 months",
+    "stipend": "₹15,000/month"
+  },
+  {
+    "title": "Technical Writing Intern",
+    "company": "DocuTech Solutions",
+    "description": "Create technical documentation for software products. Write API documentation, user guides, and tutorials. Collaborate with development teams to understand features.",
+    "requiredSkills": ["technical writing", "documentation", "communication", "markdown", "html"],
+    "department": "CSE",
+    "location": "Bangalore",
+    "duration": "3 months",
+    "stipend": "₹12,000/month"
+  },
+  {
+    "title": "Structural Engineering Intern",
+    "company": "BuildForce Engineering",
+    "description": "Perform structural analysis using STAAD Pro and ETABS. Design RCC and steel structures. Prepare detailed engineering drawings using AutoCAD.",
+    "requiredSkills": ["structural engineering", "staad pro", "etabs", "autocad", "rcc design"],
+    "department": "CE",
+    "location": "Mumbai",
+    "duration": "3 months",
+    "stipend": "₹12,000/month"
+  },
+  {
+    "title": "Construction Management Intern",
+    "company": "MegaBuild Projects",
+    "description": "Assist in project planning and scheduling using Primavera P6. Monitor construction site activities. Prepare quantity estimates and bill of quantities.",
+    "requiredSkills": ["construction management", "primavera", "project management", "autocad", "estimation"],
+    "department": "CE",
+    "location": "Delhi",
+    "duration": "4 months",
+    "stipend": "₹14,000/month"
+  },
+  {
+    "title": "Geotechnical Engineering Intern",
+    "company": "GroundTech Solutions",
+    "description": "Conduct soil testing and geotechnical investigations. Analyze foundation designs and slope stability. Use GeoStudio for geotechnical modeling.",
+    "requiredSkills": ["geotechnical engineering", "soil mechanics", "geostudio", "autocad", "foundation design"],
+    "department": "CE",
+    "location": "Chennai",
+    "duration": "3 months",
+    "stipend": "₹13,000/month"
+  },
+  {
+    "title": "Data Engineering Intern",
+    "company": "PipelineData Inc.",
+    "description": "Build and maintain data pipelines using Apache Airflow. Design data warehouses using Snowflake and Redshift. Implement data quality checks and monitoring.",
+    "requiredSkills": ["python", "sql", "apache airflow", "data engineering", "aws"],
+    "department": "CSE",
+    "location": "Bangalore",
+    "duration": "4 months",
+    "stipend": "₹28,000/month"
+  },
+  {
+    "title": "AR/VR Developer Intern",
+    "company": "ImmersiveX Labs",
+    "description": "Develop augmented and virtual reality experiences using Unity3D. Create interactive 3D environments and implement spatial interactions. Optimize VR performance.",
+    "requiredSkills": ["unity", "c#", "ar/vr", "3d modeling", "game development"],
+    "department": "CSE",
+    "location": "Pune",
+    "duration": "4 months",
+    "stipend": "₹22,000/month"
+  },
+  {
+    "title": "Instrumentation Intern",
+    "company": "MeasureTech Industries",
+    "description": "Work on industrial instrumentation systems. Calibrate sensors and transducers. Program PLCs and configure SCADA systems for process control.",
+    "requiredSkills": ["instrumentation", "plc", "scada", "sensors", "process control"],
+    "department": "ECE",
+    "location": "Mumbai",
+    "duration": "3 months",
+    "stipend": "₹14,000/month"
+  }
+]
